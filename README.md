@@ -16,3 +16,6 @@ Repositório de atividades e exercícios da graduação de Tecnologia em Anális
 * **24/03/2021 -> Aula 04 - Circuitos Elétricos**
   - [Circuito 2 - Botão/Chave](https://github.com/jonasmzsouza/fiap-tdsr-daii/tree/master/20210324) (Arquivos) - [Simulador](https://www.tinkercad.com/things/1Qag2nh6Od7) (Tinkercad)
   - [Circuito 3 - Potenciômetro](https://github.com/jonasmzsouza/fiap-tdsr-daii/tree/master/20210324) (Arquivos) - [Simulador](https://www.tinkercad.com/things/2xiY2m7oT9l) (Tinkercad)
+
+* **31/03/2021 -> Aula 05 - Introdução ao Arduíno**
+  - [Arduíno](https://github.com/jonasmzsouza/fiap-tdsr-daii/tree/master/20210331) (Arquivos) - [Simulador](https://www.tinkercad.com/things/gKYLTNGcNa8) (Tinkercad)
