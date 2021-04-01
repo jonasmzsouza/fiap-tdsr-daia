@@ -12,3 +12,7 @@ Repositório de atividades e exercícios da graduação de Tecnologia em Anális
   
 * **17/03/2021 -> Aula 03 - Protoboard**
   - [Protoboard](https://github.com/jonasmzsouza/fiap-tdsr-daii/tree/master/20210317) (Arquivos) - [Simulador](https://www.tinkercad.com/things/h0HaDYXr9Jd) (Tinkercad)
+
+* **24/03/2021 -> Aula 04 - Circuitos Elétricos**
+  - [Circuito 2 - Botão/Chave](https://github.com/jonasmzsouza/fiap-tdsr-daii/tree/master/20210324) (Arquivos) - [Simulador](https://www.tinkercad.com/things/1Qag2nh6Od7) (Tinkercad)
+  - [Circuito 3 - Potenciômetro](https://github.com/jonasmzsouza/fiap-tdsr-daii/tree/master/20210324) (Arquivos) - [Simulador](https://www.tinkercad.com/things/2xiY2m7oT9l) (Tinkercad)
