@@ -7,15 +7,25 @@ Repositório de atividades e exercícios da graduação de Tecnologia em Anális
 
 ## Aulas e Atividades
 
-* **10/03/2021 -> Aula 02 - Eletricidade e Eletrônica Analógica**
-  - [Led e Resistor](https://github.com/jonasmzsouza/fiap-tdsr-daii/tree/master/20210310) (Arquivos) - [Simulador](https://www.tinkercad.com/things/gkRQKXYa9LG) (Tinkercad)
-  
-* **17/03/2021 -> Aula 03 - Protoboard**
-  - [Protoboard](https://github.com/jonasmzsouza/fiap-tdsr-daii/tree/master/20210317) (Arquivos) - [Simulador](https://www.tinkercad.com/things/h0HaDYXr9Jd) (Tinkercad)
+### Eletricidade e Eletrônica Analógica
+#### 10/03/2021 -> Aula 02
+- [Led e Resistor](https://github.com/jonasmzsouza/fiap-tdsr-daii/tree/master/20210310) (Arquivos) - [Simulador](https://www.tinkercad.com/things/gkRQKXYa9LG) (Tinkercad)
 
-* **24/03/2021 -> Aula 04 - Circuitos Elétricos**
-  - [Circuito 2 - Botão/Chave](https://github.com/jonasmzsouza/fiap-tdsr-daii/tree/master/20210324) (Arquivos) - [Simulador](https://www.tinkercad.com/things/1Qag2nh6Od7) (Tinkercad)
-  - [Circuito 3 - Potenciômetro](https://github.com/jonasmzsouza/fiap-tdsr-daii/tree/master/20210324) (Arquivos) - [Simulador](https://www.tinkercad.com/things/2xiY2m7oT9l) (Tinkercad)
+### Protoboard  
+#### 17/03/2021 -> Aula 03
+- [Protoboard](https://github.com/jonasmzsouza/fiap-tdsr-daii/tree/master/20210317) (Arquivos) - [Simulador](https://www.tinkercad.com/things/h0HaDYXr9Jd) (Tinkercad)
 
-* **31/03/2021 -> Aula 05 - Introdução ao Arduíno**
-  - [Arduíno](https://github.com/jonasmzsouza/fiap-tdsr-daii/tree/master/20210331) (Arquivos) - [Simulador](https://www.tinkercad.com/things/gKYLTNGcNa8) (Tinkercad)
+### Circuitos Elétricos
+#### 24/03/2021 -> Aula 04
+- [Circuito 2 - Botão/Chave](https://github.com/jonasmzsouza/fiap-tdsr-daii/tree/master/20210324) (Arquivos) - [Simulador](https://www.tinkercad.com/things/1Qag2nh6Od7) (Tinkercad)
+- [Circuito 3 - Potenciômetro](https://github.com/jonasmzsouza/fiap-tdsr-daii/tree/master/20210324) (Arquivos) - [Simulador](https://www.tinkercad.com/things/2xiY2m7oT9l) (Tinkercad)
+
+### Introdução ao Arduíno
+#### 31/03/2021 -> Aula 05
+- [Arduíno](https://github.com/jonasmzsouza/fiap-tdsr-daii/tree/master/20210331) (Arquivos) - [Simulador](https://www.tinkercad.com/things/gKYLTNGcNa8) (Tinkercad)
+
+### Arduíno | Sensores x Microcontroladores x Atuadores
+#### 07/04/2021 -> Aula 05
+- [Buzzer](https://github.com/jonasmzsouza/fiap-tdsr-daii/tree/master/20210407) (Arquivos) - [Simulador](https://www.tinkercad.com/things/49TmimS0RH8) (Tinkercad)
+- [Sensor PIR](https://github.com/jonasmzsouza/fiap-tdsr-daii/tree/master/20210407) (Arquivos) - [Simulador](https://www.tinkercad.com/things/bRDMREih42C) (Tinkercad)
+
