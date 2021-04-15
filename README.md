@@ -25,7 +25,13 @@ Repositório de atividades e exercícios da graduação de Tecnologia em Anális
 - [Arduíno](https://github.com/jonasmzsouza/fiap-tdsr-daii/tree/master/20210331) (Arquivos) - [Simulador](https://www.tinkercad.com/things/gKYLTNGcNa8) (Tinkercad)
 
 ### Arduíno | Sensores x Microcontroladores x Atuadores
-#### 07/04/2021 -> Aula 05
+#### 07/04/2021 -> Aula 06
 - [Buzzer](https://github.com/jonasmzsouza/fiap-tdsr-daii/tree/master/20210407) (Arquivos) - [Simulador](https://www.tinkercad.com/things/49TmimS0RH8) (Tinkercad)
 - [Sensor PIR](https://github.com/jonasmzsouza/fiap-tdsr-daii/tree/master/20210407) (Arquivos) - [Simulador](https://www.tinkercad.com/things/bRDMREih42C) (Tinkercad)
+
+#### 14/04/2021 -> Aula 07
+- [Sensor TMP](https://github.com/jonasmzsouza/fiap-tdsr-daii/tree/master/20210414) (Arquivos) - [Simulador](https://www.tinkercad.com/things/88ce8F8Rg7F) (Tinkercad)
+- [Sensor LDR](https://github.com/jonasmzsouza/fiap-tdsr-daii/tree/master/20210414) (Arquivos) - [Simulador](https://www.tinkercad.com/things/5dUYX4OQ69h) (Tinkercad)
+
+
 
