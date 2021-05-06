@@ -1,7 +1,12 @@
 # Disruptive Architectures IOT & IA
 
-Introdução a novas tendências tecnológicas envolvendo Inteligência Artificial e Internet das Coisas. 
+<blockquote>
+    <p>
+        Introdução a novas tendências tecnológicas envolvendo Inteligência Artificial e Internet das Coisas. 
 Placas de desenvolvimento: Arduino e Raspberry. Tecnologias de Conectividade: Wifi, Bluetooth, RFID. Arquitetura M2M com MQTT. Conexão com assistentes pessoais. Embedded Systems. Estudos de sistemas de inteligência artificial. Conhecimento e raciocínio. Machine Learning.
+    </p>
+    <footer>— <cite><a href="https://www.fiap.com.br">FIAP</a></cite></footer>
+</blockquote>
 
 Repositório de atividades e exercícios da graduação de Tecnologia em Análise e Desenvolvimento de Sistemas na FIAP ano de 2021.
 
@@ -33,5 +38,10 @@ Repositório de atividades e exercícios da graduação de Tecnologia em Anális
 - [Sensor TMP](https://github.com/jonasmzsouza/fiap-tdsr-daii/tree/master/20210414) (Arquivos) - [Simulador](https://www.tinkercad.com/things/88ce8F8Rg7F) (Tinkercad)
 - [Sensor LDR](https://github.com/jonasmzsouza/fiap-tdsr-daii/tree/master/20210414) (Arquivos) - [Simulador](https://www.tinkercad.com/things/5dUYX4OQ69h) (Tinkercad)
 
+### Node-Red
+#### 28/04/2021 -> Aula 08 Revisão Node-Red
+- [Node-Red](https://github.com/jonasmzsouza/fiap-tdsr-daii/tree/master/20210428)
 
+#### 05/05/2021 -> Aula 09 Integração Node-Red, Twitter e Cloudant
+- [Node-Red, Twitter e Cloudant](https://github.com/jonasmzsouza/fiap-tdsr-daii/tree/master/20210505)
 
